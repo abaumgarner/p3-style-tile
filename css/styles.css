@@ -1,3 +1,5 @@
+/* http://eclipsecolorthemes.org/?view=theme&id=1 */
+
 /* Primary Header */
 h1 {
 	font-family: 'Jolly Lodger', cursive;
@@ -47,6 +49,21 @@ section {
 	width: 50px;
 }
 
+.color-1 {
+	color: #1E1E1E;
+}
+
+.color-2 {
+	color: #FFC600;
+}
+
+.color-3 {
+	color: #FFFFFF;
+}
+
+.pattern-1 {
+	background: url("../img/subtle_white_mini_waves.png");
+}
 
 /* Show Grid */
 .showgrid {
