@@ -58,6 +58,22 @@ ul {
     margin-top: 10px;
 }
 
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #f5e1d8;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #644c4c;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    color: #e6d4cc;
+}
+
 /* Style for my name */
 header p {
     font-weight: 900;
@@ -70,6 +86,7 @@ header p {
 
 section p {
     color: #e0e0d8;
+    font-family: 'Inconsolata' ;
 }
 
 /* Style for header/bg behind my name */
@@ -267,6 +284,19 @@ section.grid_12 p:last-child {
 
 }
 
+div.grid_12 > p.grid_6 ~ em.grid_5 {
+    margin-top: 2.6em;
+    margin-left: 2em;
+}
+
 .pattern-1 {
     background: url("../img/grey.png") no-repeat;
+}
+
+.pattern-2 {
+
+}
+
+.pattern-3 {
+
 }
