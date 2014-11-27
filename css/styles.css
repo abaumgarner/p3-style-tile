@@ -300,3 +300,15 @@ div.grid_12 > p.grid_6 ~ em.grid_5 {
 .pattern-3 {
 
 }
+
+.color-1 {
+    background: #644c4c;
+}
+
+.color-2 {
+    background: #9a968b;
+}
+
+.color-3 {
+    background: #e0e0d8;
+}
