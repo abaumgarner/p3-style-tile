@@ -147,6 +147,18 @@ a:hover {
     color: #000000;
 }
 
+img[alt="My Logo"] {
+    margin-left: 18.125em;
+}
+
+section.grid_5:nth-child(3) {
+    margin-left: 2.5em;
+}
+
+section div.grid_4.pad{
+    margin-left: 13.125em;
+}
+
 /*
 * IDs *
 */
