@@ -149,6 +149,7 @@ a:hover {
 
 img[alt="My Logo"] {
     margin-left: 18.125em;
+    border-radius: .5em;
 }
 
 section.grid_5:nth-child(3) {
